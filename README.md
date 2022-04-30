@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AM7002
 - 👀 I’m interested in GUI and c++
-- 🌱 I’m currently learning Python, java(only basics), html&css(only basics), c#(only basics), c++
+- 🌱 I’m currently learning Python, java(only basics), html&css(only basics), c#(only basics), c++, unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (aljbwryly485@gmail.com)
 
